@@ -44,7 +44,7 @@ public class Test : MonoBehaviour
     void Start()
     {
 
-        // 課題提出用　配列を初期化する
+        // ★課題提出用　配列を初期化する
         int[] points = {10, 20, 30, 40, 50};
         int maxCount = points.Length;
         //配列の各要素の値を順番に表示
